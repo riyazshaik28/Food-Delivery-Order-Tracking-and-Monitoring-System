@@ -233,7 +233,7 @@ This project is available for educational and personal use. If needed, add an ap
 
 Your Name  
 Email: sshaikriyaz252@gmail.com  
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/riyazshaik28
 
 ## Notes
 
